@@ -1,7 +1,0 @@
-# Ignore Git here
-.git
-
-# But not these files...
-!.gitignore
-
-app_screenshot.png
