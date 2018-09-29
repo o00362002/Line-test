@@ -1,0 +1,23 @@
+{
+  "name": "linechatbotot",
+  "version": "1.0.0",
+  "description": "linebot test",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.3",
+    "linebot": "^1.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.heroku.com/linechatbotbot.git"
+  },
+  "keywords": [
+    "w5"
+  ],
+  "author": "o00362000",
+  "license": "ISC"
+}
