@@ -4,4 +4,4 @@
 # But not these files...
 !.gitignore
 
-app_screenshot.png
+*.png
