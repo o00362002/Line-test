@@ -1,3 +1,7 @@
-linechatbotbot/.git
-*.git
+# Ignore Git here
+.git
+
+# But not these files...
+!.gitignore
+
 line-sdk-starter-ios-v2/*.png
